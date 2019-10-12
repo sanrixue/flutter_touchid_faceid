@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_touchid_faceid (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_touchid_faceid (from `.symlinks/plugins/flutter_touchid_faceid/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_touchid_faceid:
+    :path: ".symlinks/plugins/flutter_touchid_faceid/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_touchid_faceid: 2d7ed32727f7b7e22df20a222867d70e19183b72
+
+PODFILE CHECKSUM: 7fb83752f59ead6285236625b82473f90b1cb932
+
+COCOAPODS: 1.8.0
