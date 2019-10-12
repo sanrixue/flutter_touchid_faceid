@@ -22,7 +22,7 @@
 //              result(@"多次错误，指纹/面容ID已被锁定，请到手机解锁界面输入密码");
                result(@"failInputPassword");
           } else if (state == YZAuthIDStateSuccess) { // TouchID/FaceID验证成功
-              result(@"scuess");
+              result(@"success");
           }
           else{ //不是以上情况统统为失败
               result(@"fail");
