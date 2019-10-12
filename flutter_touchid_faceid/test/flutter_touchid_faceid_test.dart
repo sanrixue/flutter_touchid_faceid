@@ -16,6 +16,6 @@ void main() {
   });
 
   test('getPlatformVersion', () async {
-    expect(await FlutterTouchidFaceid.platformVersion, '42');
+    expect(await FlutterTouchidFaceid.check, '42');
   });
 }
